@@ -2,7 +2,7 @@
 
 Hi there! \
 \
-We all know that the job market is terrible this year, especially for new grads. As a new grad who finally landed a job after 10-month suffering, I'd like to share my experience on job hunting. I will also mention worth-noting companies in industries I am particularly interested in.\
+We all know that the job market is terrible this year, especially for new grads. As a new grad who finally landed a job after a 10-month suffering, I'd like to share my experience on job hunting. I will also mention worth-noting companies in industries I am particularly interested in.\
 \
 Topics you can find here:
 1. General strategies for job hunting as a new grad, especially those with data science backgrounds (like me!!!).
